@@ -19,5 +19,7 @@ public class ShutterbugLaunch {
 		System.out.println("hello");
 		System.out.println("print");
 		
+		System.out.println("mani");
+		System.out.println("dave");
 }
 }
