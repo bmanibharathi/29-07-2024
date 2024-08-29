@@ -21,5 +21,7 @@ public class ShutterbugLaunch {
 		
 		System.out.println("mani");
 		System.out.println("dave");
+		
+		System.out.println("sam");
 }
 }
