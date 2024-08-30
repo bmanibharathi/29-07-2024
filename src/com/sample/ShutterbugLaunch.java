@@ -16,6 +16,16 @@ public class ShutterbugLaunch {
 		System.out.println(driver.getTitle());
 		Thread.sleep(2000);
 		Shutterbug.shootPage(driver,Capture.FULL,true).save("D:\\selenium\\shutter.png");
+
+        System.out.println("hello");
+        System.out.println("print");
+
+        System.out.println("mani");
+        System.out.println("dave");
+
+
+        System.out.println("sam");
+
 		System.out.println("bala");
 		System.out.println("bharathi");
 		
