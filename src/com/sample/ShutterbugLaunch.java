@@ -23,5 +23,8 @@ public class ShutterbugLaunch {
 		System.out.println("dave");
 		
 		System.out.println("sam");
+		
+		System.out.println("apple");
+		System.out.println("orange");
 }
 }
