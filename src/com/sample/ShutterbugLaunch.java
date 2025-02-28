@@ -29,5 +29,9 @@ public class ShutterbugLaunch {
 		System.out.println("bala");
 		System.out.println("bharathi");
 		
+		System.out.println("apple");
+		System.out.println("orange");
+		
+
 }
 }
